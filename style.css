@@ -1,0 +1,139 @@
+img {
+    height: 250px;
+   width: 800px;
+}
+
+.header {
+  background-image: url("https://raw.githubusercontent.com/green-fox-academy/myfirstapp-syllabus/master/assets/first-website-header.png");
+  background-repeat: no-repeat;
+  background-size: 800px 250px;
+  font-family: 'Abril Fatface'; 
+  color: #222 grey;
+  font-size: 24px;
+  text-indent: 150px;
+  padding-top: 80px;
+  margin: auto;
+  height: 200px;
+  width: 800px;
+  position: relative;
+}
+.main1 {
+  margin-left: 150px;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 16px;
+  width: 500px;
+}
+ul {
+  list-style-type: square;
+}
+.main2 {
+  height: 130px;
+  width: 620px;
+  margin: auto;
+  background: #444444;  
+}
+.together {
+  color: white;
+  font-family: ‘Abril Fatface’;
+  font-size: 36px;
+  font-weight: bold;
+  text-align: left;
+  margin-left: 50px;
+ }
+.blockquote::before {
+  content: '”';
+  font-family: ‘Abril Fatface’;
+  color: white;
+  font-size: 70px;
+  font-weight: bold;
+  position: absolute;
+}
+.main3 {
+  margin: auto;
+  font-family: 'Josefin Sans', sans-serif;
+  width: 550px;
+  height: 330px;
+}
+.notable {
+   text-transform: uppercase;
+   font-size: 16px;
+   font-weight: bold;
+}
+h5 {
+     font-weight: normal;
+}
+.main4 {
+  height: 160px;
+  width: 620px;
+  margin: auto;
+  background: #444444;  
+}
+.iFind {
+  color: white;
+  font-family: ‘Abril Fatface’;
+  font-size: 36px;
+  margin-left: 30px;
+  font-weight: bold;
+  text-align: left;
+ }
+.main5 {
+  margin: auto;
+  font-family: 'Josefin Sans', sans-serif;
+  width: 550px;
+  height: 360px;
+}
+.exp {
+   text-transform: uppercase;
+   font-size: 16px;
+   font-weight: bold;
+}
+.italic {
+  font-family: 'Merriweather', serif;
+  font-size: 14px;
+  font-weight: bold;
+  font-style: italic;
+}
+.main6 {
+  height: 160px;
+  width: 620px;
+  margin: auto;
+  background: #444444;  
+}
+.whenI {
+  color: white;
+  font-family: ‘Abril Fatface’;
+  font-size: 36px;
+  margin-left: 30px;
+  margin-right: 30px;
+  font-weight: bold;
+  text-align: left;
+ }
+.main7 {
+  margin: auto;
+  font-family: 'Josefin Sans', sans-serif;
+  width: 550px;
+  height: 470px;
+}
+.exp {
+   text-transform: uppercase;
+   font-size: 16px;
+   font-weight: bold;
+}
+.italic {
+  font-family: 'Merriweather', serif;
+  font-size: 14px;
+  font-weight: bold;
+  font-style: italic;
+}
+.main8 {
+  height: 4px;
+  width: 620px;
+  margin: auto;
+  background: #444444;  
+}
+.main9 {
+  margin: auto;
+  font-family: 'Josefin Sans', sans-serif;
+  width: 550px;
+  height: 470px;
+}
